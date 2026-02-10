@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgectsUnity\\TestShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|D:\\ProgectsUnity\\TestShooter\\assets\\scripts\\camerafunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|D:\\ProgectsUnity\\TestShooter\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|d:\\progectsunity\\testshooter\\assets\\scripts\\enemyagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDFE849-8FB3-A969-6E4F-57EB3B90A78A}|Assembly-CSharp-Editor.csproj|D:\\ProgectsUnity\\TestShooter\\assets\\scripts\\editor\\managereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDFE849-8FB3-A969-6E4F-57EB3B90A78A}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\managereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|D:\\ProgectsUnity\\TestShooter\\assets\\scripts\\destroydeatheffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroydeatheffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|D:\\ProgectsUnity\\TestShooter\\assets\\scripts\\destroybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|D:\\ProgectsUnity\\TestShooter\\assets\\scripts\\destroyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|D:\\ProgectsUnity\\TestShooter\\assets\\scripts\\healthscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|D:\\ProgectsUnity\\TestShooter\\assets\\scripts\\functionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\functionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|D:\\ProgectsUnity\\TestShooter\\assets\\scripts\\enemyvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF8407D-0834-2C90-ABFC-518718F8A8EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyVision.cs",
+              "DocumentMoniker": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\EnemyVision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyVision.cs",
+              "ToolTip": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\EnemyVision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyVision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:18:56.82Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyAgent.cs",
+              "DocumentMoniker": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\EnemyAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAgent.cs",
+              "ToolTip": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\EnemyAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAgent.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:57:42.927Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerEditor.cs",
+              "DocumentMoniker": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\Editor\\ManagerEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\ManagerEditor.cs",
+              "ToolTip": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\Editor\\ManagerEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\ManagerEditor.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:50:22.807Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestroyDeathEffect.cs",
+              "DocumentMoniker": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\DestroyDeathEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyDeathEffect.cs",
+              "ToolTip": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\DestroyDeathEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyDeathEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:16:38.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DestroyBullet.cs",
+              "DocumentMoniker": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\DestroyBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyBullet.cs",
+              "ToolTip": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\DestroyBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyBullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:51:45.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DestroyHealth.cs",
+              "DocumentMoniker": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\DestroyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyHealth.cs",
+              "ToolTip": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\DestroyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:41:47.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthScript.cs",
+              "DocumentMoniker": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\HealthScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthScript.cs",
+              "ToolTip": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\HealthScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:14:55.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FunctionUI.cs",
+              "DocumentMoniker": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\FunctionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FunctionUI.cs",
+              "ToolTip": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\FunctionUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FunctionUI.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:03:36.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraFunctions.cs",
+              "DocumentMoniker": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\CameraFunctions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFunctions.cs",
+              "ToolTip": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\CameraFunctions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFunctions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:09:25.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\ProgectsUnity\\TestShooter\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:09:36.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
